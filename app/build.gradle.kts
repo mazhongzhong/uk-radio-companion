@@ -35,7 +35,7 @@ android {
 
 dependencies {
     implementation("androidx.activity:activity-ktx:1.13.0")
-    implementation("androidx.core:core-ktx:1.18.0")
+    implementation("androidx.core:core-ktx:1.19.1")
 
     val media3Version = "1.11.0"
     implementation("androidx.media3:media3-exoplayer:$media3Version")
